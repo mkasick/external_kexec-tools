@@ -16,4 +16,3 @@ config.log
 config.status
 configure
 include/config.h.in
-include/config.h
